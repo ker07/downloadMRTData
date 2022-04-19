@@ -1,0 +1,12 @@
+CREATE TABLE IF NOT EXISTS metroLine(
+    id serial PRIMARY KEY,
+    metroLineName VARCHAR(30) UNIQUE,
+    metroLineCode VARCHAR(5) UNIQUE
+);
+
+INSERT INTO metroLine (metroLineName, metroLineCode) VALUES ('Wenhu line', 'BR');
+INSERT INTO metroLine (metroLineName, metroLineCode) VALUES ('Tamsui–Xinyi line', 'R');
+INSERT INTO metroLine (metroLineName, metroLineCode) VALUES ('Songshan–Xindian line', 'G');
+INSERT INTO metroLine (metroLineName, metroLineCode) VALUES ('Zhonghe–Xinlu line', 'O');
+INSERT INTO metroLine (metroLineName, metroLineCode) VALUES ('Bannan line', 'BL');
+INSERT INTO metroLine (metroLineName, metroLineCode) VALUES ('Circular line', 'Y');

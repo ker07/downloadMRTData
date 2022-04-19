@@ -1,0 +1,43 @@
+CREATE TABLE IF NOT EXISTS visitsData_raw (
+    id serial PRIMARY KEY,
+    date DATE,
+    dayOfWeek SMALLINT,
+    station_in VARCHAR(15),
+    station_out VARCHAR(15),
+    visit_hour_0 SMALLINT DEFAULT 0,
+    visit_hour_1 SMALLINT DEFAULT 0,
+    visit_hour_5 SMALLINT DEFAULT 0,
+    visit_hour_6 SMALLINT DEFAULT 0,
+    visit_hour_7 SMALLINT DEFAULT 0,
+    visit_hour_8 SMALLINT DEFAULT 0,
+    visit_hour_9 SMALLINT DEFAULT 0,
+    visit_hour_10 SMALLINT DEFAULT 0,
+    visit_hour_11 SMALLINT DEFAULT 0,
+    visit_hour_12 SMALLINT DEFAULT 0,
+    visit_hour_13 SMALLINT DEFAULT 0,
+    visit_hour_14 SMALLINT DEFAULT 0,
+    visit_hour_15 SMALLINT DEFAULT 0,
+    visit_hour_16 SMALLINT DEFAULT 0,
+    visit_hour_17 SMALLINT DEFAULT 0,
+    visit_hour_18 SMALLINT DEFAULT 0,
+    visit_hour_19 SMALLINT DEFAULT 0,
+    visit_hour_20 SMALLINT DEFAULT 0,
+    visit_hour_21 SMALLINT DEFAULT 0,
+    visit_hour_22 SMALLINT DEFAULT 0,
+    visit_hour_23 SMALLINT DEFAULT 0,
+    visitAllDay SMALLINT DEFAULT 0,
+
+    CONSTRAINT fk_stationNameIn
+        FOREIGN KEY(station_in)
+            REFERENCES station(stationName)
+        ON UPDATE CASCADE
+        ON DELETE NO ACTION,
+        
+    CONSTRAINT fk_stationNameOut
+        FOREIGN KEY(station_out)
+            REFERENCES station(stationName)
+        ON UPDATE CASCADE
+        ON DELETE NO ACTION,
+    
+    UNIQUE (date, station_in, station_out)
+);

@@ -1,0 +1,136 @@
+stationNameEng,stationName,stationCode,startDate,metroLineCode
+Dingpu,頂埔,BL01,2015-07-06,BL
+Yongning,永寧,BL02,2006-05-31,BL
+Tucheng,土城,BL03,2006-05-31,BL
+Haishan,海山,BL04,2006-05-31,BL
+Far Eastern Hospital,亞東醫院,BL05,2006-05-31,BL
+Fuzhong,府中,BL06,2006-05-31,BL
+Banqiao,BL 板橋,BL07,2006-05-31,BL
+Xinpu,新埔,BL08,2000-08-31,BL
+Jiangzicui,江子翠,BL09,2000-08-31,BL
+Longshan Temple,龍山寺,BL10,1999-12-24,BL
+Ximen,西門,BL11,1999-12-24,BL
+Taipei Main,台北車站,BL12,1999-12-24,BL
+Shandao Temple,善導寺,BL13,1999-12-24,BL
+Zhongxiao Xinsheng,忠孝新生,BL14,1999-12-24,BL
+Zhongxiao Fuxing,忠孝復興,BL15,1999-12-24,BL
+Zhongxiao Dunhua,忠孝敦化,BL16,1999-12-24,BL
+Sun Yat-Sen Memorial Hall,國父紀念館,BL17,1999-12-24,BL
+Taipei City Hall,市政府,BL18,1999-12-24,BL
+Yongchun,永春,BL19,2000-12-30,BL
+Houshanpi,後山埤,BL20,2000-12-30,BL
+Kunyang,昆陽,BL21,2000-12-30,BL
+Nangang,南港,BL22,2008-12-25,BL
+Taipei Nangang Exhibition Center,南港展覽館,BL23,2011-02-27,BL
+Taipei Zoo,動物園,BR01,1996-03-28,BR
+Muzha,木柵,BR02,1996-03-28,BR
+Wanfang Community,萬芳社區,BR03,1996-03-28,BR
+Wanfang Hospital,萬芳醫院,BR04,1996-03-28,BR
+Xinhai,辛亥,BR05,1996-03-28,BR
+Linguang,麟光,BR06,1996-03-28,BR
+Liuzhangli,六張犁,BR07,1996-03-28,BR
+Technology Building,科技大樓,BR08,1996-03-28,BR
+Daan,大安,BR09,1996-03-28,BR
+Zhongxiao Fuxing,忠孝復興,BR10,1996-03-28,BR
+Nanjing Fuxing,南京復興,BR11,1996-03-28,BR
+Zhongshan Junior High School,中山國中,BR12,1996-03-28,BR
+Songshan Airport,松山機場,BR13,2009-07-04,BR
+Dazhi,大直,BR14,2009-07-04,BR
+Jiannan Road,劍南路,BR15,2009-07-04,BR
+Xihu,西湖,BR16,2009-07-04,BR
+Gangqian,港墘,BR17,2009-07-04,BR
+Wende,文德,BR18,2009-07-04,BR
+Neihu,內湖,BR19,2009-07-04,BR
+Dahu Park,大湖公園,BR20,2009-07-04,BR
+Huzhou,葫洲,BR21,2009-07-04,BR
+Donghu,東湖,BR22,2009-07-04,BR
+Nangang Software Park,南港軟體園區,BR23,2009-07-04,BR
+Taipei Nangang Exhibition Center,南港展覽館,BR24,2009-07-04,BR
+Xindian,新店,G01,1999-11-11,G
+Xindian District Office,新店區公所,G02,1999-11-11,G
+Qizhang,七張,G03,1999-11-11,G
+Xiaobitan,小碧潭,G03A,2004-09-29,G
+Dapinglin,大坪林,G04,1999-11-11,G
+Jingmei,景美,G05,1999-11-11,G
+Wanlong,萬隆,G06,1999-11-11,G
+Gongguan,公館,G07,1999-11-11,G
+Taipower Building,台電大樓,G08,1999-11-11,G
+Guting,古亭,G09,1998-12-24,G
+Chiang Kai-Shek Memorial Hall,中正紀念堂,G10,1998-12-24,G
+Xiaonanmen,小南門,G11,2000-08-31,G
+Ximen,西門,G12,2000-08-31,G
+Beimen,北門,G13,2014-11-15,G
+Zhongshan,中山,G14,2014-11-15,G
+Songjiang Nanjing,松江南京,G15,2014-11-15,G
+Nanjing Fuxing,南京復興,G16,2014-11-15,G
+Taipei Arena,台北小巨蛋,G17,2014-11-15,G
+Nanjing Sanmin,南京三民,G18,2014-11-15,G
+Songshan,松山,G19,2014-11-15,G
+Nanshijiao,南勢角,O01,1998-12-24,O
+Jingan,景安,O02,1998-12-24,O
+Yongan Market,永安市場,O03,1998-12-24,O
+Dingxi,頂溪,O04,1998-12-24,O
+Guting,古亭,O05,1998-12-24,O
+Dongmen,東門,O06,2012-09-30,O
+Zhongxiao Xinsheng,忠孝新生,O07,2010-11-03,O
+Songjiang Nanjing,松江南京,O08,2010-11-03,O
+Xingtian Temple,行天宮,O09,2010-11-03,O
+Zhongshan Elementary School,中山國小,O10,2010-11-03,O
+Minquan West Road,民權西路,O11,2010-11-03,O
+Daqiaotou,大橋頭,O12,2010-11-03,O
+Taipei Bridge,台北橋,O13,2012-01-05,O
+Cailiao,菜寮,O14,2012-01-05,O
+Sanchong,三重,O15,2012-01-05,O
+Xianse Temple,先嗇宮,O16,2012-01-05,O
+Touqianzhuang,頭前庄,O17,2012-01-05,O
+Xinzhuang,新莊,O18,2012-01-05,O
+Fu Jen University,輔大,O19,2012-01-05,O
+Danfeng,丹鳳,O20,2013-06-29,O
+Huilong,迴龍,O21,2013-06-29,O
+Sanchong Elementary School,三重國小,O50,2010-11-03,O
+Sanhe Junior High School,三和國中,O51,2010-11-03,O
+St. Ignatius High School,徐匯中學,O52,2010-11-03,O
+Sanmin Senior High School,三民高中,O53,2010-11-03,O
+Luzhou,蘆洲,O54,2010-11-03,O
+Xiangshan,象山,R02,2013-11-24,R
+Taipei 101 / World Trade Center,台北101/世貿,R03,2013-11-24,R
+Xinyi Anhe,信義安和,R04,2013-11-24,R
+Daan,大安,R05,2013-11-24,R
+Daan Park,大安森林公園,R06,2013-11-24,R
+Dongmen,東門,R07,2013-11-24,R
+Chiang Kai-Shek Memorial Hall,中正紀念堂,R08,1998-12-24,R
+National Taiwan University Hospital,台大醫院,R09,1998-12-24,R
+Taipei Main,台北車站,R10,1997-12-25,R
+Zhongshan,中山,R11,1997-03-28,R
+Shuanglian,雙連,R12,1997-03-28,R
+Minquan West Road,民權西路,R13,1997-03-28,R
+Yuanshan,圓山,R14,1997-03-28,R
+Jiantan,劍潭,R15,1997-03-28,R
+Shilin,士林,R16,1997-03-28,R
+Zhishan,芝山,R17,1997-03-28,R
+Mingde,明德,R18,1997-03-28,R
+Shipai,石牌,R19,1997-03-28,R
+Qilian,唭哩岸,R20,1997-03-28,R
+Qiyan,奇岩,R21,1997-03-28,R
+Beitou,北投,R22,1997-03-28,R
+Xinbeitou,新北投,R22A,1997-03-28,R
+Fuxinggang,復興崗,R23,1997-03-28,R
+Zhongyi,忠義,R24,1997-03-28,R
+Guandu,關渡,R25,1997-03-28,R
+Zhuwei,竹圍,R26,1997-03-28,R
+Hongshulin,紅樹林,R27,1997-03-28,R
+Tamsui,淡水,R28,1997-03-28,R
+Dapinglin,大坪林,Y07,2020-01-31,Y
+Shisizhang,十四張,Y08,2020-01-31,Y
+Xiulang Bridge,秀朗橋,Y09,2020-01-31,Y
+Jingping,景平,Y10,2020-01-31,Y
+Jingan,景安,Y11,2020-01-31,Y
+Zhonghe,中和,Y12,2020-01-31,Y
+Qiaohe,橋和,Y13,2020-01-31,Y
+Zhongyuan,中原,Y14,2020-01-31,Y
+Banxin,板新,Y15,2020-01-31,Y
+Banqiao,Y 板橋,Y16,2020-01-31,Y
+Xinpu Minsheng,新埔民生,Y17,2020-01-31,Y
+Touqianzhuang,頭前庄,Y18,2020-01-31,Y
+XIngFu,幸福,Y19,2020-01-31,Y
+New Taipei Industrial Park,新北產業園區,Y20,2020-01-31,Y

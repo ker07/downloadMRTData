@@ -1,0 +1,19 @@
+CREATE TABLE IF NOT EXISTS stationCode (
+    id serial PRIMARY KEY,
+    stationCode VARCHAR(8) UNIQUE,
+    metroLineCode VARCHAR(5),
+    stationName VARCHAR(15),
+    startDate DATE,
+
+    CONSTRAINT fk_metroLineCode
+        FOREIGN KEY(metroLineCode)
+            REFERENCES metroLine(metroLineCode)
+        ON UPDATE CASCADE
+        ON DELETE NO ACTION,
+        
+    CONSTRAINT fk_stationName
+        FOREIGN KEY(stationName)
+            REFERENCES station(stationName)
+        ON UPDATE CASCADE
+        ON DELETE NO ACTION
+);

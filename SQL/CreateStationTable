@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS station (
+    id serial PRIMARY KEY,
+    stationName VARCHAR(15) UNIQUE,
+    stationNameEng VARCHAR(50)
+);
